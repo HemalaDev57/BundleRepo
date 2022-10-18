@@ -8,8 +8,8 @@ items:
     displayName: ControllerFolder
     items:
     - kind: managedController
-      displayName: "Controller01"
-      name: "Controller01"
+      displayName: "Controller02"
+      name: "Controller02"
       description: "Managed controller!"
       properties:
         - configurationAsCode:
